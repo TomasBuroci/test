@@ -1,7 +1,7 @@
 # Python program to display all the prime numbers within an interval
 
-lower = int(input("Enter starting number: "))
-upper = int(input("Enter ending number: "))
+lower = int(input("Starting number: "))
+upper = int(input("Ending number: "))
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
