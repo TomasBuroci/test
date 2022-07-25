@@ -2,9 +2,6 @@
 
 num = int(input("Enter a number: "))
 
-# To take input from the user
-#num = int(input("Enter a number: "))
-
 # define a flag variable
 flag = False
 
